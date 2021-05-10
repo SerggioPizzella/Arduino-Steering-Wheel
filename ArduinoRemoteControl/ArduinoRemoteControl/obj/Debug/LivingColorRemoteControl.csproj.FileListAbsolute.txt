@@ -1,0 +1,9 @@
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\LivingColorRemoteControl\LivingColorRemoteControl\bin\Debug\LivingColorRemoteControl.exe.config
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\LivingColorRemoteControl\LivingColorRemoteControl\bin\Debug\LivingColorRemoteControl.exe
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\LivingColorRemoteControl\LivingColorRemoteControl\bin\Debug\LivingColorRemoteControl.pdb
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\LivingColorRemoteControl\LivingColorRemoteControl\obj\Debug\LivingColorRemoteControl.Properties.Resources.resources
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\LivingColorRemoteControl\LivingColorRemoteControl\obj\Debug\LivingColorRemoteControl.csproj.GenerateResource.Cache
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\LivingColorRemoteControl\LivingColorRemoteControl\obj\Debug\LivingColorRemoteControl.csproj.CoreCompileInputs.cache
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\LivingColorRemoteControl\LivingColorRemoteControl\obj\Debug\LivingColorRemoteControl.exe
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\LivingColorRemoteControl\LivingColorRemoteControl\obj\Debug\LivingColorRemoteControl.pdb
+C:\Users\reneb\Documents\Visual Studio 2017\Projects\LivingColorRemoteControl\LivingColorRemoteControl\obj\Debug\ArduinoRemoteControl.RemoteControlForm.resources
